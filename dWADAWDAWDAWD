@@ -1,3 +1,4 @@
+AccessoryBlob = "", "527365852"
 function Avatar(HatID, HeadID, TorsoID, RLEG, LLEG, RARM, LARM)
     local args = {[1] = 324,[2] = {["HatAccessory"] = HatID,["RightLegColor"] = {[1] = "255",[2] = "204",[3] = "153"},["Torso"] = TorsoID,["WidthScale"] = 1,["BodyTypeScale"] = 0,["BackAccessory"] = "",["LeftArmColor"] = {[1] = "255",[2] = "204",[3] = "153"},
     ["Emotes"] = {["1"] = {[1] = 3576686446},["4"] = {[1] = 3576968026},["3"] = { [1] = 3576823880},["2"] = {[1] = 3360686498}},
@@ -13,7 +14,7 @@ function Avatar(HatID, HeadID, TorsoID, RLEG, LLEG, RARM, LARM)
     local args = {[1] = 321,[2] = "2"}
     game:GetService("ReplicatedStorage").ConnectionEvent:FireServer(unpack(args))
     local args = {[1] = 315,[2] = {
-    ["HatAccessory"] = {[1] = "", "1365767",[3] = ""},
+    ["HatAccessory"] = {[1] = "", "8011570046","8011584416","8011589266","8011546326","10369943613","10159606132","10159610478","10159622004","10159600649","10159617728",[3] = ""},
     ["RightLegColor"] = {[1] = "255",[2] = "204",[3] = "153"},
     ["LeftLegColor"] = {[1] = "255",[2] = "204",[3] = "153"},
     ["ProportionScale"] = 4,
