@@ -13,7 +13,7 @@ function Avatar(HatID, HeadID, TorsoID, RLEG, LLEG, RARM, LARM)
     local args = {[1] = 321,[2] = "2"}
     game:GetService("ReplicatedStorage").ConnectionEvent:FireServer(unpack(args))
     local args = {[1] = 315,[2] = {
-    ["HatAccessory"] = {[1] = "", "527365852",[3] = ""},
+    ["HatAccessory"] = {[1] = "", "1365767",[3] = ""},
     ["RightLegColor"] = {[1] = "255",[2] = "204",[3] = "153"},
     ["LeftLegColor"] = {[1] = "255",[2] = "204",[3] = "153"},
     ["ProportionScale"] = 4,
